@@ -1,0 +1,25 @@
+{
+  "name": "syllabus-search",
+  "version": "1.0.0",
+  "description": "A way to search the syllabus for content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byuitechops/syllabus-search.git"
+  },
+  "author": "Seth Childers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/byuitechops/syllabus-search/issues"
+  },
+  "homepage": "https://github.com/byuitechops/syllabus-search#readme",
+  "dependencies": {
+    "canvas-api-wrapper": "^3.3.5",
+    "cheerio": "^1.0.0-rc.2",
+    "d3-dsv": "^1.1.1"
+  }
+}

@@ -33,6 +33,7 @@ None (technically I'll run a get request to get the courses which could be done 
 #### Destination
 
 Jilane Richardson: richardsonji@byui.edu
+
 Corey Moore: moorec@byui.edu
 
 #### Definition of Outputs

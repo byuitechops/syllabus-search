@@ -1,6 +1,6 @@
 # Project Capture Document for Syllabus Search
 #### *Author: Seth Childers*
-#### *Stakeholder(s): Jilane Richardson*
+#### *Stakeholder(s): Jilane Richardson and Corey Moore*
 #### *Date: Friday March 08, 2019*
 
 
@@ -82,3 +82,6 @@ Ryan Gewondjan
 
 #### *Approval Date:*
 Friday March 08, 2019
+
+#### *Date Delivered:*
+Wednesday March 13, 2019
